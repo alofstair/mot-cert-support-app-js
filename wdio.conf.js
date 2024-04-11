@@ -21,7 +21,7 @@ exports.config = {
     // of the config file unless it's absolute.
     //
     specs: [
-        './test/specs/**/*.e2e.js'
+        './test/specs/**/*.js'
     ],
     // Patterns to exclude.
     exclude: [
